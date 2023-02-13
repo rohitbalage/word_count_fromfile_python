@@ -1,0 +1,4 @@
+This is a word count program for CIS580
+This is a word count program for CIS580
+This is a word count program for CIS580
+This
